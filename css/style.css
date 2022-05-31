@@ -1,0 +1,9 @@
+span {
+    border-bottom: solid black 2px;
+}
+
+#span1 {
+    background-color: white;
+    transform: rotateZ(-45deg) translateX(25%);
+    color: black;
+}
