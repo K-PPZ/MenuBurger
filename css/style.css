@@ -1,9 +1,14 @@
 span {
-    border-bottom: solid black 2px;
+    border: solid black 2px;
+    display: inline-block;
+    width: 50px;
 }
 
 #span1 {
-    background-color: white;
     transform: rotateZ(-45deg) translateX(25%);
-    color: black;
+    margin: 15px ;
+}
+
+#span2 {
+    transform: rotateZ(45deg) translateX(25%);
 }
