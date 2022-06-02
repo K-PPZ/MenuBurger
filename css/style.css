@@ -6,9 +6,13 @@ span {
 
 #span1 {
     transform: rotateZ(-45deg) translateX(25%);
-    margin: 15px ;
+    margin: 40px -58px -17px 11px;
 }
 
 #span2 {
     transform: rotateZ(45deg) translateX(25%);
+}
+
+#span3 {
+    display: none;
 }
